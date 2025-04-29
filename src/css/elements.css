@@ -1,0 +1,13 @@
+main,
+header {
+  width: min(50rem, 100% - 2rem);
+  margin-inline: auto;
+}
+
+main {
+  padding-block-end: 1rem;
+}
+
+header {
+  padding-block-start: 1rem;
+}
