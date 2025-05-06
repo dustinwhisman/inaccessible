@@ -164,3 +164,27 @@ Accessibility tools should be expected to find no issues on the good example pag
 
 - [Good examples of content on hover or focus](/1.4.13/good/)
 - [Bad examples of content on hover or focus](/1.4.13/bad/)
+
+## Operable
+
+### Keyboard Accessible
+
+#### 2.1.1 Keyboard - Level A
+
+- [Good examples of keyboard access](/2.1.1/good/)
+- [Bad examples of keyboard access](/2.1.1/bad/)
+
+#### 2.1.2 No Keyboard Trap - Level A
+
+- [Good examples of no keyboard traps](/2.1.2/good/)
+- [Bad examples of no keyboard traps](/2.1.2/bad/)
+
+#### 2.1.3 Keyboard (No Exception) - Level AAA
+
+- [Good examples of non-exempt keyboard access](/2.1.3/good/)
+- [Bad examples of non-exempt keyboard access](/2.1.3/bad/)
+
+#### 2.1.4 Character Key Shortcuts - Level A
+
+- [Good examples of character key shortcuts](/2.1.4/good/)
+- [Bad examples of character key shortcuts](/2.1.4/bad/)
