@@ -220,3 +220,22 @@ Accessibility tools should be expected to find no issues on the good example pag
 
 - [Good examples of timeouts](/2.2.6/good/)
 - [Bad examples of timeouts](/2.2.6/bad/)
+
+### Seizures and Physical Reactions
+
+Note: since failures for these success criteria can create health risks, all examples are hidden behind user interactions. There will be no automatic flashing or motion animations until they are manually triggered.
+
+#### 2.3.1 Three Flashes or Below Threshold - Level A
+
+- [Good examples of three flashes or below threshold](/2.3.1/good/)
+- [Bad examples of three flashes or below threshold](/2.3.1/bad/)
+
+#### 2.3.2 Three Flashes - Level AAA
+
+- [Good examples of three flashes](/2.3.2/good/)
+- [Bad examples of three flashes](/2.3.2/bad/)
+
+#### 2.3.3 Animation from Interactions - Level AAA
+
+- [Good examples of animation from interactions](/2.3.3/good/)
+- [Bad examples of animation from interactions](/2.3.3/bad/)
