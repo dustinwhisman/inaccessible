@@ -348,3 +348,37 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of minimum target size](/2.5.8/good/)
 - [Bad examples of minimum target size](/2.5.8/bad/)
+
+## Understandable
+
+### Readable
+
+#### 3.1.1 Language of Page - Level A
+
+- [Good examples of language of page](/3.1.1/good/)
+- [Bad examples of language of page](/3.1.1/bad/)
+
+#### 3.1.2 Language of Parts - Level AA
+
+- [Good examples of language of parts](/3.1.2/good/)
+- [Bad examples of language of parts](/3.1.2/bad/)
+
+#### 3.1.3 Unusual Words - Level AAA
+
+- [Good examples of unusual words](/3.1.3/good/)
+- [Bad examples of unusual words](/3.1.3/bad/)
+
+#### 3.1.4 Abbreviations - Level AAA
+
+- [Good examples of abbreviations](/3.1.4/good/)
+- [Bad examples of abbreviations](/3.1.4/bad/)
+
+#### 3.1.5 Reading Level - Level AAA
+
+- [Good examples of reading level](/3.1.5/good/)
+- [Bad examples of reading level](/3.1.5/bad/)
+
+#### 3.1.6 Pronunciation - Level AAA
+
+- [Good examples of pronunciation](/3.1.6/good/)
+- [Bad examples of pronunciation](/3.1.6/bad/)
