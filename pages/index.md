@@ -239,3 +239,70 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of animation from interactions](/2.3.3/good/)
 - [Bad examples of animation from interactions](/2.3.3/bad/)
+
+### Navigable
+
+#### 2.4.1 Bypass Blocks - Level A
+
+- [Good examples of bypass blocks](/2.4.1/good/)
+- [Bad examples of bypass blocks](/2.4.1/bad/)
+
+#### 2.4.2 Page Titled - Level A
+
+- [Good examples of page titled](/2.4.2/good/)
+- [Bad examples of page titled](/2.4.2/bad/)
+
+#### 2.4.3 Focus Order - Level A
+
+- [Good examples of focus order](/2.4.3/good/)
+- [Bad examples of focus order](/2.4.3/bad/)
+
+#### 2.4.4 Link Purpose (In Context) - Level A
+
+- [Good examples of link purpose in context](/2.4.4/good/)
+- [Bad examples of link purpose in context](/2.4.4/bad/)
+
+#### 2.4.5 Multiple Ways - Level AA
+
+- [Good examples of multiple ways](/2.4.5/good/)
+- [Bad examples of multiple ways](/2.4.5/bad/)
+
+#### 2.4.6 Headings and Labels - Level AA
+
+- [Good examples of headings and labels](/2.4.6/good/)
+- [Bad examples of headings and labels](/2.4.6/bad/)
+
+#### 2.4.7 Focus Visible - Level AA
+
+- [Good examples of focus visible](/2.4.7/good/)
+- [Bad examples of focus visible](/2.4.7/bad/)
+
+#### 2.4.8 Location - Level AAA
+
+- [Good examples of location](/2.4.8/good/)
+- [Bad examples of location](/2.4.8/bad/)
+
+#### 2.4.9 Link Purpose (Link Only) - Level AAA
+
+- [Good examples of link purpose from the link only](/2.4.9/good/)
+- [Bad examples of link purpose from the link only](/2.4.9/bad/)
+
+#### 2.4.10 Section Headings - Level AAA
+
+- [Good examples of section headings](/2.4.10/good/)
+- [Bad examples of section headings](/2.4.10/bad/)
+
+#### 2.4.11 Focus Not Obscured (Minimum) - Level AA
+
+- [Good examples of minimally unobscured focus](/2.4.11/good/)
+- [Bad examples of minimally unobscured focus](/2.4.11/bad/)
+
+#### 2.4.12 Focus Not Obscured (Enhanced) - Level AAA
+
+- [Good examples of unobscured focus](/2.4.12/good/)
+- [Bad examples of unobscured focus](/2.4.12/bad/)
+
+#### 2.4.13 Focus Appearance - Level AAA
+
+- [Good examples of focus appearance](/2.4.13/good/)
+- [Bad examples of focus appearance](/2.4.13/bad/)
