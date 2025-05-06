@@ -306,3 +306,45 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of focus appearance](/2.4.13/good/)
 - [Bad examples of focus appearance](/2.4.13/bad/)
+
+### Input Modalities
+
+#### 2.5.1 Pointer Gestures - Level A
+
+- [Good examples of pointer gestures](/2.5.1/good/)
+- [Bad examples of pointer gestures](/2.5.1/bad/)
+
+#### 2.5.2 Pointer Cancellation - Level A
+
+- [Good examples of pointer cancellation](/2.5.2/good/)
+- [Bad examples of pointer cancellation](/2.5.2/bad/)
+
+#### 2.5.3 Label in Name - Level A
+
+- [Good examples of label in name](/2.5.3/good/)
+- [Bad examples oflabel in name](/2.5.3/bad/)
+
+#### 2.5.4 Motion Actuation - Level A
+
+- [Good examples of motion actuation](/2.5.4/good/)
+- [Bad examples of motion actuation](/2.5.4/bad/)
+
+#### 2.5.5 Target Size (Enhanced) - Level AAA
+
+- [Good examples of enhanced target size](/2.5.5/good/)
+- [Bad examples of enhanced target size](/2.5.5/bad/)
+
+#### 2.5.6 Concurrent Input Mechanisms - Level AAA
+
+- [Good examples of concurrent input mechanisms](/2.5.6/good/)
+- [Bad examples of concurrent input mechanisms](/2.5.6/bad/)
+
+#### 2.5.7 Dragging Movements - Level AA
+
+- [Good examples of dragging movements](/2.5.7/good/)
+- [Bad examples of dragging movements](/2.5.7/bad/)
+
+#### 2.5.8 Target Size (Minimum) - Level AA
+
+- [Good examples of minimum target size](/2.5.8/good/)
+- [Bad examples of minimum target size](/2.5.8/bad/)
