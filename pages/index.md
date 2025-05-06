@@ -382,3 +382,35 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of pronunciation](/3.1.6/good/)
 - [Bad examples of pronunciation](/3.1.6/bad/)
+
+### Predictable
+
+#### 3.2.1 On Focus - Level A
+
+- [Good examples of on focus](/3.2.1/good/)
+- [Bad examples of on focus](/3.2.1/bad/)
+
+#### 3.2.2 On Input - Level A
+
+- [Good examples of on input](/3.2.2/good/)
+- [Bad examples of on input](/3.2.2/bad/)
+
+#### 3.2.3 Consistent Navigation - Level AA
+
+- [Good examples of consistent navigation](/3.2.3/good/)
+- [Bad examples of consistent navigation](/3.2.3/bad/)
+
+#### 3.2.4 Consistent Identification - Level AA
+
+- [Good examples of consistent identification](/3.2.4/good/)
+- [Bad examples of consistent identification](/3.2.4/bad/)
+
+#### 3.2.5 Change on Request - Level AAA
+
+- [Good examples of change on request](/3.2.5/good/)
+- [Bad examples of change on request](/3.2.5/bad/)
+
+#### 3.2.6 Consistent Help - Level A
+
+- [Good examples of consistent help](/3.2.6/good/)
+- [Bad examples of consistent help](/3.2.6/bad/)
