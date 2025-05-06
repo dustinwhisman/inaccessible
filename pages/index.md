@@ -10,82 +10,157 @@ Evaluate accessibility tooling by checking test pages designed to trigger false 
 
 Accessibility tools should be expected to find no issues on the good example pages, and they should be expected to find at least some issues on the bad example pages. Better tools will find fewer false positives on good example pages and more of the known issues on the bad example pages.
 
-## 1.1.1 Non-text Content - Level A
+## Perceivable
+
+### Text Alternatives
+
+#### 1.1.1 Non-text Content - Level A
 
 - [Good examples of non-text content](/1.1.1/good/)
 - [Bad examples of non-text content](/1.1.1/bad/)
 
-## 1.2.1 Audio-only and Video-only (Prerecorded) - Level A
+### Time-based Media
+
+#### 1.2.1 Audio-only and Video-only (Prerecorded) - Level A
 
 - [Good examples of audio-only and video-only](/1.2.1/good/)
 - [Bad examples of audio-only and video-only](/1.2.1/bad/)
 
-## 1.2.2 Captions (Prerecorded) - Level A
+#### 1.2.2 Captions (Prerecorded) - Level A
 
 - [Good examples of captions](/1.2.2/good/)
 - [Bad examples of captions](/1.2.2/bad/)
 
-## 1.2.3 Audio Description or Media Alternative (Prerecorded) - Level A
+#### 1.2.3 Audio Description or Media Alternative (Prerecorded) - Level A
 
 - [Good examples of audio descriptions or media alternatives](/1.2.3/good/)
 - [Bad examples of audio descriptions or media alternatives](/1.2.3/bad/)
 
-## 1.2.4 Captions (Live) - Level AA
+#### 1.2.4 Captions (Live) - Level AA
 
 - [Good examples of live captions](/1.2.4/good/)
 - [Bad examples of live captions](/1.2.4/bad/)
 
-## 1.2.5 Audio Description (Prerecorded) - Level AA
+#### 1.2.5 Audio Description (Prerecorded) - Level AA
 
 - [Good examples of audio descriptions](/1.2.5/good/)
 - [Bad examples of audio descriptions](/1.2.5/bad/)
 
-## 1.2.6 Sign Language (Prerecorded) - Level AAA
+#### 1.2.6 Sign Language (Prerecorded) - Level AAA
 
 - [Good examples of sign language](/1.2.6/good/)
 - [Bad examples of sign language](/1.2.6/bad/)
 
-## 1.2.7 Extended Audio Description (Prerecorded) - Level AAA
+#### 1.2.7 Extended Audio Description (Prerecorded) - Level AAA
 
 - [Good examples of extended audio descriptions](/1.2.7/good/)
 - [Bad examples of extended audio descriptions](/1.2.7/bad/)
 
-## 1.2.8 Media Alternative (Prerecorded) - Level AAA
+#### 1.2.8 Media Alternative (Prerecorded) - Level AAA
 
 - [Good examples of media alternatives](/1.2.8/good/)
 - [Bad examples of media alternatives](/1.2.8/bad/)
 
-## 1.2.9 Audio-only (Live) - Level AAA
+#### 1.2.9 Audio-only (Live) - Level AAA
 
 - [Good examples of audio-only](/1.2.9/good/)
 - [Bad examples of audio-only](/1.2.9/bad/)
 
-## 1.3.1 Info and Relationships - Level A
+### Adaptable
+
+#### 1.3.1 Info and Relationships - Level A
 
 - [Good examples of info and relationships](/1.3.1/good/)
 - [Bad examples of info and relationships](/1.3.1/bad/)
 
-## 1.3.2 Meaningful Sequence - Level A
+#### 1.3.2 Meaningful Sequence - Level A
 
 - [Good examples of meaningful sequence](/1.3.2/good/)
 - [Bad examples of meaningful sequence](/1.3.2/bad/)
 
-## 1.3.3 Sensory Characteristics - Level A
+#### 1.3.3 Sensory Characteristics - Level A
 
 - [Good examples of sensory characteristics](/1.3.3/good/)
 - [Bad examples of sensory characteristics](/1.3.3/bad/)
 
-## 1.3.4 Orientation - Level AA
+#### 1.3.4 Orientation - Level AA
 
 - [Good examples of orientation](/1.3.4/good/)
 - [Bad examples of orientation](/1.3.4/bad/)
 
-## 1.3.5 Identify Input Purpose - Level AA
+#### 1.3.5 Identify Input Purpose - Level AA
 
 - [Good examples of identifying input purpose](/1.3.5/good/)
 - [Bad examples of identifying input purpose](/1.3.5/bad/)
 
-## 1.3.6 Identify Purpose - Level AAA
+#### 1.3.6 Identify Purpose - Level AAA
 
 - [Good examples of identifying purpose](/1.3.6/good/)
 - [Bad examples of identifying purpose](/1.3.6/bad/)
+
+### Distinguishable
+
+#### 1.4.1 Use of Color - Level A
+
+- [Good examples of use of color](/1.4.1/good/)
+- [Bad examples of use of color](/1.4.1/bad/)
+
+#### 1.4.2 Audio Control - Level A
+
+- [Good examples of audio control](/1.4.2/good/)
+- [Bad examples of audio control](/1.4.2/bad/)
+
+#### 1.4.3 Contrast (Minimum) - Level AA
+
+- [Good examples of minimum contrast](/1.4.3/good/)
+- [Bad examples of minimum contrast](/1.4.3/bad/)
+
+#### 1.4.4 Resize Text - Level AA
+
+- [Good examples of resizing text](/1.4.4/good/)
+- [Bad examples of resizing text](/1.4.4/bad/)
+
+#### 1.4.5 Images of Text - Level AA
+
+- [Good examples of images of text](/1.4.5/good/)
+- [Bad examples of images of text](/1.4.5/bad/)
+
+#### 1.4.6 Contrast (Enhanced) - Level AAA
+
+- [Good examples of enhanced contrast](/1.4.6/good/)
+- [Bad examples of enhanced contrast](/1.4.6/bad/)
+
+#### 1.4.7 Low or No Background Audio - Level AAA
+
+- [Good examples of background audio](/1.4.7/good/)
+- [Bad examples of background audio](/1.4.7/bad/)
+
+#### 1.4.8 Visual Presentation - Level AAA
+
+- [Good examples of visual presentation](/1.4.8/good/)
+- [Bad examples of visual presentation](/1.4.8/bad/)
+
+#### 1.4.9 Images of Text (No Exception) - Level AAA
+
+- [Good examples of non-exempt images of text](/1.4.9/good/)
+- [Bad examples of non-exempt images of text](/1.4.9/bad/)
+
+#### 1.4.10 Reflow - Level AA
+
+- [Good examples of reflow](/1.4.10/good/)
+- [Bad examples of reflow](/1.4.10/bad/)
+
+#### 1.4.11 Non-text Contrast - Level AA
+
+- [Good examples of non-text contrast](/1.4.11/good/)
+- [Bad examples of non-text contrast](/1.4.11/bad/)
+
+#### 1.4.12 Text Spacing - Level AA
+
+- [Good examples of text spacing](/1.4.12/good/)
+- [Bad examples of text spacing](/1.4.12/bad/)
+
+#### 1.4.13 Content on Hover or Focus - Level AA
+
+- [Good examples of content on hover or focus](/1.4.13/good/)
+- [Bad examples of content on hover or focus](/1.4.13/bad/)
