@@ -461,3 +461,17 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of accessible authentication](/3.3.9/good/)
 - [Bad examples of accessible authentication](/3.3.9/bad/)
+
+## 4. Robust
+
+### 4.1 Compatible
+
+#### 4.1.2 Name, Role, Value - Level A
+
+- [Good examples of name, role, value](/4.1.2/good/)
+- [Bad examples of name, role, value](/4.1.2/bad/)
+
+#### 4.1.3 Status Messages - Level AA
+
+- [Good examples of status messages](/4.1.3/good/)
+- [Bad examples of status messages](/4.1.3/bad/)
