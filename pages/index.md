@@ -10,16 +10,16 @@ Evaluate accessibility tooling by checking test pages designed to trigger false 
 
 Accessibility tools should be expected to find no issues on the good example pages, and they should be expected to find at least some issues on the bad example pages. Better tools will find fewer false positives on good example pages and more of the known issues on the bad example pages.
 
-## Perceivable
+## 1. Perceivable
 
-### Text Alternatives
+### 1.1 Text Alternatives
 
 #### 1.1.1 Non-text Content - Level A
 
 - [Good examples of non-text content](/1.1.1/good/)
 - [Bad examples of non-text content](/1.1.1/bad/)
 
-### Time-based Media
+### 1.2 Time-based Media
 
 #### 1.2.1 Audio-only and Video-only (Prerecorded) - Level A
 
@@ -66,7 +66,7 @@ Accessibility tools should be expected to find no issues on the good example pag
 - [Good examples of audio-only](/1.2.9/good/)
 - [Bad examples of audio-only](/1.2.9/bad/)
 
-### Adaptable
+### 1.3 Adaptable
 
 #### 1.3.1 Info and Relationships - Level A
 
@@ -98,7 +98,7 @@ Accessibility tools should be expected to find no issues on the good example pag
 - [Good examples of identifying purpose](/1.3.6/good/)
 - [Bad examples of identifying purpose](/1.3.6/bad/)
 
-### Distinguishable
+### 1.4 Distinguishable
 
 #### 1.4.1 Use of Color - Level A
 
@@ -165,9 +165,9 @@ Accessibility tools should be expected to find no issues on the good example pag
 - [Good examples of content on hover or focus](/1.4.13/good/)
 - [Bad examples of content on hover or focus](/1.4.13/bad/)
 
-## Operable
+## 2. Operable
 
-### Keyboard Accessible
+### 2.1 Keyboard Accessible
 
 #### 2.1.1 Keyboard - Level A
 
@@ -189,7 +189,7 @@ Accessibility tools should be expected to find no issues on the good example pag
 - [Good examples of character key shortcuts](/2.1.4/good/)
 - [Bad examples of character key shortcuts](/2.1.4/bad/)
 
-### Enough Time
+### 2.2 Enough Time
 
 #### 2.2.1 Timing Adjustable - Level A
 
@@ -221,7 +221,7 @@ Accessibility tools should be expected to find no issues on the good example pag
 - [Good examples of timeouts](/2.2.6/good/)
 - [Bad examples of timeouts](/2.2.6/bad/)
 
-### Seizures and Physical Reactions
+### 2.3 Seizures and Physical Reactions
 
 Note: since failures for these success criteria can create health risks, all examples are hidden behind user interactions. There will be no automatic flashing or motion animations until they are manually triggered.
 
@@ -240,7 +240,7 @@ Note: since failures for these success criteria can create health risks, all exa
 - [Good examples of animation from interactions](/2.3.3/good/)
 - [Bad examples of animation from interactions](/2.3.3/bad/)
 
-### Navigable
+### 2.4 Navigable
 
 #### 2.4.1 Bypass Blocks - Level A
 
@@ -307,7 +307,7 @@ Note: since failures for these success criteria can create health risks, all exa
 - [Good examples of focus appearance](/2.4.13/good/)
 - [Bad examples of focus appearance](/2.4.13/bad/)
 
-### Input Modalities
+### 2.5 Input Modalities
 
 #### 2.5.1 Pointer Gestures - Level A
 
@@ -349,9 +349,9 @@ Note: since failures for these success criteria can create health risks, all exa
 - [Good examples of minimum target size](/2.5.8/good/)
 - [Bad examples of minimum target size](/2.5.8/bad/)
 
-## Understandable
+## 3. Understandable
 
-### Readable
+### 3.1 Readable
 
 #### 3.1.1 Language of Page - Level A
 
@@ -383,7 +383,7 @@ Note: since failures for these success criteria can create health risks, all exa
 - [Good examples of pronunciation](/3.1.6/good/)
 - [Bad examples of pronunciation](/3.1.6/bad/)
 
-### Predictable
+### 3.2 Predictable
 
 #### 3.2.1 On Focus - Level A
 
@@ -414,3 +414,50 @@ Note: since failures for these success criteria can create health risks, all exa
 
 - [Good examples of consistent help](/3.2.6/good/)
 - [Bad examples of consistent help](/3.2.6/bad/)
+
+### 3.3 Input Assistance
+
+#### 3.3.1 Error Identification - Level A
+
+- [Good examples of error identification](/3.3.1/good/)
+- [Bad examples of error identification](/3.3.1/bad/)
+
+#### 3.3.2 Labels or Instructions - Level A
+
+- [Good examples of labels or instructions](/3.3.2/good/)
+- [Bad examples of labels or instructions](/3.3.2/bad/)
+
+#### 3.3.3 Error Suggestion - Level AA
+
+- [Good examples of error suggestion](/3.3.3/good/)
+- [Bad examples of error suggestion](/3.3.3/bad/)
+
+#### 3.3.4 Error Prevention (Legal, Financial, Data) - Level AA
+
+- [Good examples of error prevention for legal contracts, financial transactions, or user data deletions](/3.3.4/good/)
+- [Bad examples of error prevention for legal contracts, financial transactions, or user data deletions](/3.3.4/bad/)
+
+#### 3.3.5 Help - Level AAA
+
+- [Good examples of help](/3.3.5/good/)
+- [Bad examples of help](/3.3.5/bad/)
+
+#### 3.3.6 Error Prevention (All) - Level AAA
+
+- [Good examples of general error prevention](/3.3.6/good/)
+- [Bad examples of general error prevention](/3.3.6/bad/)
+
+#### 3.3.7 Redundant Entry - Level A
+
+- [Good examples of redundant entry](/3.3.7/good/)
+- [Bad examples of redundant entry](/3.3.7/bad/)
+
+#### 3.3.8 Accessible Authentication (Minimum) - Level AA
+
+- [Good examples of minimally accessible authentication](/3.3.8/good/)
+- [Bad examples of minimally accessible authentication](/3.3.8/bad/)
+
+#### 3.3.9 Accessible Authentication (Enhanced) - Level AAA
+
+- [Good examples of accessible authentication](/3.3.9/good/)
+- [Bad examples of accessible authentication](/3.3.9/bad/)
