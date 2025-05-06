@@ -59,3 +59,33 @@ Accessibility tools should be expected to find no issues on the good example pag
 
 - [Good examples of audio-only](/1.2.9/good/)
 - [Bad examples of audio-only](/1.2.9/bad/)
+
+## 1.3.1 Info and Relationships - Level A
+
+- [Good examples of info and relationships](/1.3.1/good/)
+- [Bad examples of info and relationships](/1.3.1/bad/)
+
+## 1.3.2 Meaningful Sequence - Level A
+
+- [Good examples of meaningful sequence](/1.3.2/good/)
+- [Bad examples of meaningful sequence](/1.3.2/bad/)
+
+## 1.3.3 Sensory Characteristics - Level A
+
+- [Good examples of sensory characteristics](/1.3.3/good/)
+- [Bad examples of sensory characteristics](/1.3.3/bad/)
+
+## 1.3.4 Orientation - Level AA
+
+- [Good examples of orientation](/1.3.4/good/)
+- [Bad examples of orientation](/1.3.4/bad/)
+
+## 1.3.5 Identify Input Purpose - Level AA
+
+- [Good examples of identifying input purpose](/1.3.5/good/)
+- [Bad examples of identifying input purpose](/1.3.5/bad/)
+
+## 1.3.6 Identify Purpose - Level AAA
+
+- [Good examples of identifying purpose](/1.3.6/good/)
+- [Bad examples of identifying purpose](/1.3.6/bad/)
